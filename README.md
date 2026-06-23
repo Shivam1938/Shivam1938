@@ -32,11 +32,11 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=Shivam1938&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Shivam1938's GitHub Streak" width="49%" />
 </p>
-<!--
+
   <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Shivam1938&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shivam Mishra's GitHub Trophies" />
 </p>
--->
+
 
 
 
